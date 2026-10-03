@@ -6,7 +6,7 @@ My developer profile
 
 ## About Me
 
-Hi! I'm Mariam, a Data Science student at the **University of Engineering and Technology (UET), Lahore**. I'm interested in finding patterns in data and using them to solve real problems. Right now I'm learning Git, GitHub, and Markdown to manage my projects professionally. I enjoy working with Python and exploring datasets. I'm looking to grow my skills through projects and collaboration.
+Hi! I'm Mariam Rauf, a Data Science student at the **University of Engineering and Technology (UET), Lahore**. I'm interested in finding patterns in data and using them to solve real problems. Right now I'm learning Git, GitHub, and Markdown to manage my projects professionally. I enjoy working with Python and exploring datasets. I'm looking to grow my skills through projects and collaboration.
 
 ## Skills & Technologies
 
