@@ -25,5 +25,5 @@ Hi! I'm Mariam, a Data Science student at the **University of Engineering and Te
 ## Contact
 
 - Email: maryamrauf1306@gmail.com
-- LinkedIn: [Profile](https://linkedin.com/in/yourprofile)
-- GitHub: [@yourusername](https://github.com/yourusername)
+- LinkedIn: [Profile](https://www.linkedin.com/in/maryam-rauf-09321439a?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- GitHub: [@Maryam-Rauf](https://github.com/Maryam-Rauf)
